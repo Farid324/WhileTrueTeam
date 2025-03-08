@@ -24,3 +24,11 @@ Enfocado al desarrollo de un software de alquiler de autos.
 ## Fuente
 
 https://fonts.google.com/
+
+## Colores
+
+https://mycolor.space/?hex=%23845EC2&sub=1
+
+https://coolors.co/
+
+https://color.adobe.com/es/explore
