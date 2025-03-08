@@ -2,6 +2,7 @@
 Enfocado al desarrollo de un alquiler de autos.
 Calizaya Brenda 67519672 (202105268@est.umss.edu)
 ● Coca Grisell Ingrid 74370297 (201904915@est.umss.edu)
+
 ● Fernandez Camila Wara 76062621 (202109717@est.umss.edu)
 ● Montaño Melina Alcira 67555036 (202200060@est.umss.edu)
 ● Navia Jhoswer Eddy 79787784 (201512519@est.umss.edu) SCRUM MASTER
