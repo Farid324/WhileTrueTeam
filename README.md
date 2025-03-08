@@ -1,5 +1,5 @@
 # WhileTrueTeam
-Enfocado al desarrollo de un software de alquiler de autos.
+Enfocado al desarrollo del software de alquiler de autos.
 
 - Calizaya Brenda 67519672 (202105268@est.umss.edu).
 
