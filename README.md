@@ -32,3 +32,7 @@ https://mycolor.space/?hex=%23845EC2&sub=1
 https://coolors.co/
 
 https://color.adobe.com/es/explore
+
+## Figma
+
+https://www.figma.com/design/H3OzE6PHjlo9Z3ZuO0Rtiq/WhileTrueTeam?node-id=1-842&t=LNGzBHktwSw5RE7R-1
