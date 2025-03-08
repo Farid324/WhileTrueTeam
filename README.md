@@ -1,7 +1,7 @@
 # WhileTrueTeam
 Enfocado al desarrollo de un alquiler de autos.
 
-Calizaya Brenda 67519672 (202105268@est.umss.edu)
+● Calizaya Brenda 67519672 (202105268@est.umss.edu)
 
 ● Coca Grisell Ingrid 74370297 (201904915@est.umss.edu)
 
