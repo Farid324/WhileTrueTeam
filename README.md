@@ -1,2 +1,2 @@
 # WhileTrueTeam
-Enfocado al desarrolo de un alquiler de autos.
+Enfocado al desarrollo de un alquiler de autos.
